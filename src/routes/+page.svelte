@@ -3,7 +3,7 @@
     name: "Awesome Product",
     description: "This is a fantastic product that you will love.",
     price: "$79.99",
-    image: "static/image.jpg"
+    image: "image.jpg"
   };
 </script>
 
